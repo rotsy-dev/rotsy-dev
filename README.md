@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Rotsy RAHARINOSY
+#  Rotsy RAHARINOSY
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Passionate+about+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 
@@ -89,20 +89,20 @@ Développeur Full Stack passionné avec **+5 ans d'expérience** dans la concept
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rotsyin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotsyin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rotsydev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotsydev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rotsyin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rotsydev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rotsyin&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rotsydev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
